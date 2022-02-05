@@ -1,5 +1,5 @@
 # pi-bootloader-time
-A tool to find the amount of time a Raspberry Pi spends in the bootloader.
+A tool to measure how long a Raspberry Pi spends in the bootloader.
 
 ## Compilling
 ```
